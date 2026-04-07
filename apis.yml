@@ -1,7 +1,11 @@
 aid: werner-enterprises
-url: https://raw.githubusercontent.com/api-evangelist/werner-enterprises/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/werner-enterprises/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.werner-enterprises.com
+description: >-
+  Werner Enterprises is a transportation and logistics company providing truckload
+  transportation services and logistics solutions throughout North America.
