@@ -22,6 +22,8 @@ created: '2026-03-24'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/werner-enterprises-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/werner-enterprises
   - type: Website
@@ -103,6 +105,8 @@ common:
         description: >-
           Modern cloud-based B2B/EDI platform replacing legacy mainframe EDI
           systems as part of Werner's Cloud First strategy.
+  - url: https://www.werner.com/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
