@@ -1,7 +1,9 @@
 ---
 title: Werner Enterprises - Technology Advancements
 url: https://www.werner.com/blog/logistics/technology-advancements-and-our-commitment-to-the-future/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Werner Enterprises" press release artificial intelligence'
 position: 1
 source: serpapi-google

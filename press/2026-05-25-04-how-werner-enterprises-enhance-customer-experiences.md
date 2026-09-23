@@ -1,7 +1,9 @@
 ---
 title: How Werner Enterprises Enhance Customer Experiences ...
 url: https://www.salesforce.com/events/webinars/werner-enhances-customer-experiences/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Werner Enterprises" press release artificial intelligence'
 position: 4
 source: serpapi-google

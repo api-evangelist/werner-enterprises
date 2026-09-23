@@ -1,7 +1,9 @@
 ---
 title: Utilizing Machine Learning For Predictive Maintenance
 url: https://www.werner.com/blog/werner-edge-blog/utilizing-machine-learning-for-predictive-maintenance/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Werner Enterprises" press release artificial intelligence'
 position: 2
 source: serpapi-google
