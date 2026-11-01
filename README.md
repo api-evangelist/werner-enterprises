@@ -1,4 +1,4 @@
-# Werner Enterprises (werner-enterprises)
+# Werner Enterprises
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,57 +66,79 @@
 
 Werner Enterprises is a leading transportation and logistics company providing truckload transportation services, logistics solutions, and supply chain management throughout North America. Founded in 1956 and headquartered in Omaha, Nebraska, Werner operates one of the largest fleets in the United States and offers freight brokerage, dedicated carriage, intermodal, and final-mile delivery services through its Werner Bridge℠ digital freight platform.
 
-**URL:** [https://www.werner.com/](https://www.werner.com/)
+**Areas:** Transportation · Logistics · Freight · Supply Chain · Trucking · EDI · Fortune 1000
 
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=company-api-evangelist&utm_content=repo)
+## Werner Enterprises on APIs.io
 
-## Tags:
+Everything profiled for Werner Enterprises is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/werner-enterprises/](https://apis.io/providers/werner-enterprises/)** — or go straight to one of the APIs or properties below.
 
- - Transportation, Logistics, Freight, Supply Chain, Trucking, EDI
+### Published properties
 
-## Timestamps
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- **Created:** 2026-03-24
-- **Modified:** 2026-05-03
+#### Security (1)
 
-## Common Properties
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Werner Enterprises Domain Security](https://apis.io/security/werner-enterprises/werner-enterprises-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.werner.com/)
-- [Werner Bridge Freight Platform](https://www.wernerbridge.com/)
-- [Customer ePortal](https://www.werner.com/customer-eportal/)
+- [Documentation](https://www.werner.com/)
+- [Blog](https://www.werner.com/feed/)
 
-## Features
+## API Evangelist rating
 
-| Name | Description |
-|------|-------------|
-| Werner Bridge℠ Digital Freight Platform | Cloud-based freight platform enabling real-time load booking, shipment tracking, and document management for shippers and carriers. |
-| Real-Time Shipment Tracking | GPS tracking, cargo sensors, and in-container cameras provide real-time freight visibility throughout the supply chain. |
-| EDI Integration | Electronic Data Interchange support for purchase orders, invoices, shipment notifications, and other B2B document exchange with over 700 trading partners. |
-| API-First Integration | APIs at the center of HR, billing, and transport management system integrations enabling driver hour tracking, safety monitoring, and fleet maintenance. |
-| Cloud First Strategy | Enterprise-wide "Cloud First, Cloud Now" technology strategy leveraging modern cloud architecture for scalability and resilience. |
-| Multi-Modal Transportation | Supports dry van, temperature-controlled, intermodal, final-mile, dedicated, and expedited freight across North America. |
+**Kin Score 7.7** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-## Use Cases
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 21.4 |
+| Access clarity | 0.0 |
 
-| Name | Description |
-|------|-------------|
-| Freight Shipping Automation | Automate load tendering, shipment tracking, and delivery confirmation through EDI and API integrations with Werner's TMS. |
-| Real-Time Visibility | Gain end-to-end shipment visibility with GPS tracking, status updates, and automated alerts via Werner Bridge and Customer ePortal. |
-| Carrier Management | Manage carrier relationships, capacity procurement, and load matching through Werner's freight brokerage platform. |
-| Supply Chain Optimization | Optimize transportation spend and carrier mix using Werner's data analytics and logistics management capabilities. |
+**Agent readiness 0.0** — human-only
 
-## Integrations
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
 
-| Name | Description |
-|------|-------------|
-| EDI (Electronic Data Interchange) | B2B EDI platform supporting ANSI X12 transaction sets for freight tendering, shipment status, invoicing, and partner connectivity with 700+ trading partners. |
-| Workday | HR system integration via API enabling employee data synchronization, payroll, and workforce management. |
-| Trucker Tools | Real-time shipment visibility, predictive freight-matching, automated booking, and electronic document capture via Trucker Tools platform. |
-| ServiceNow | IT service management and operations integration through ServiceNow platform for enterprise workflows. |
-| PartnerLinQ | Modern cloud-based B2B/EDI platform replacing legacy mainframe EDI systems as part of Werner's Cloud First strategy. |
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
 
-## Maintainers
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/werner-enterprises/](https://apis.io/providers/werner-enterprises/).
 
-**FN:** Kin Lane
+## How this profile is made
 
-**Email:** kin@apievangelist.com
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Werner Enterprises: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/werner-enterprises/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
